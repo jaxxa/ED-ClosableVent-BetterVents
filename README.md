@@ -1,1 +1,5 @@
-# ED-ClosableVent-BetterVents
+Changes:
+
+Thingclass
+
+add flickable comp
